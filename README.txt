@@ -46,6 +46,10 @@ to see which branch you're on:
 
 git branch
 
+to merge with another branch:
+
+git merge branch_name
+
 to see what has been checked in:
 
 git status
@@ -53,7 +57,7 @@ git status
 
 A fun command-line tutorial on Github can be had by typing the following at the command line: 
 
-brew install githug
+gem install githug
 
 A bunch of stuff will spew out while it's installing, magic! Then you can type "githug" at the command line and follow the instructions!
 
