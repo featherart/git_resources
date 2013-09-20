@@ -15,9 +15,9 @@ ___  _ ____  _     ____
 \_/   \_/\_\\_/\____\\_/  \|\____/(_)
                                      
 
-to initialize a repository, first go to Github and create a repo from your account.
+to initialize a new repository, first go to http://www.github.com/your_git_name in your web browser and create a repo from your account.
 
-at the command line type:
+then at the command line type:
 
 git init
 
@@ -34,6 +34,22 @@ git push -u origin master
 This will set up a repo for your code where you can save things you don't want to lose if your laptop gets stolen, or...
 
 You will make many new repos over your time at WDI. It will be fun to look back on all of it later!
+
+Some other useful git commands
+-------------------------------
+
+to copy code down to your machine:
+
+git clone https://github.com/project_name.git
+
+to see which branch you're on:
+
+git branch
+
+to see what has been checked in:
+
+git status
+
 
 A fun command-line tutorial on Github can be had by typing the following at the command line: 
 
