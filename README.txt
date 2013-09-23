@@ -43,7 +43,7 @@ You will make many new repos over your time at WDI. It will be fun to look back 
      \/             \/                        \/
 
 The homework you do will be submitted to a repo where all your instructors can look at it. It is located here:
-https://github.com/lisafeather/WDI_SF_4_Work
+https://github.com/ga-students/WDI_SF_4_Work
 
 Please follow instructions in the README.md file to submit your work.
 
