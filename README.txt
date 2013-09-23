@@ -15,7 +15,7 @@ ___  _ ____  _     ____
 \_/   \_/\_\\_/\____\\_/  \|\____/(_)
                                      
 
-to initialize a new repository, first go to http://www.github.com/your_git_name in your web browser and create a repo from your account.
+To initialize a new repository, first go to http://www.github.com/your_git_name in your web browser and create a repo from your account.
 
 then at the command line type:
 
@@ -34,6 +34,18 @@ git push -u origin master
 This will set up a repo for your code where you can save things you don't want to lose if your laptop gets stolen, or...
 
 You will make many new repos over your time at WDI. It will be fun to look back on all of it later!
+
+.__                                       __    
+|  |__   ____   _______  _  _____________|  | __
+|  |  \ /  _ \ /     \ \/ \/ /  _ \_  __ \  |/ /
+|   Y  (  <_> )  Y Y  \     (  <_> )  | \/    < 
+|___|  /\____/|__|_|  /\/\_/ \____/|__|  |__|_ \
+     \/             \/                        \/
+
+The homework you do will be submitted to a repo where all your instructors can look at it. It is located here:
+https://github.com/lisafeather/WDI_SF_4_Work
+
+Please follow instructions in the README.md file to submit your work.
 
 Some other useful git commands
 -------------------------------
