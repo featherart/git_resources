@@ -78,6 +78,10 @@ to see what has been checked in:
 
 git status
 
+to remove a file
+
+git rm filename
+
 
 A fun command-line tutorial on Github can be had by typing the following at the command line: 
 
