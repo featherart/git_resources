@@ -47,6 +47,18 @@ https://github.com/ga-students/WDI_SF_4_Work
 
 Please follow instructions in the README.md file to submit your work.
 
+To Recap HW submission:
+1. github web site to fork
+2. git clone on the command line
+3. do the work! (in that directory)
+4. git add . to add everything in that directory
+5. git commit -m 'descriptive commit message'
+6. git push
+7. github web site to pull request (little icon)
+8. git fetch upstream
+9. git rebase upstream
+
+
 Some other useful git commands
 -------------------------------
 
